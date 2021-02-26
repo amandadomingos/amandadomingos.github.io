@@ -24,14 +24,10 @@ Work experience
 
 Teaching experience
 ======
-* Winter 2019: Teaching Assistant
-  * Course: Public Policy II (Graduate Level: B.A in Political Science)
+* Teaching Assistant
+  * Course: Public Policy II and Public Policy II(Graduate Level: B.A in Political Science)
   * Supervision: Mariana Batista, Phd
-  * Federal University of Pernambuco
-
-* Summer 2017: Teaching Assistant
-  * Course: Public Policy I (Graduate Level: B.A in Political Science)
-  * Supervision: Mariana Batista, Phd
+  * Winter 2019 and summer 2017
   * Federal University of Pernambuco
 
 Grants
