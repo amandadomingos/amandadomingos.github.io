@@ -8,10 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hiya! I am Amanda Domingos.
-I am a Political Science PhD Student at Federal University of Pernambuco (Recife, Brazil). Also, I am a director at Métodos em Pauta, a BITSS Catalyst, and member of the TIER hub in Brazil.
+Hiya! 
+I am a Political Science PhD Student at Federal University of Pernambuco (Recife, Brazil). Also, I am a director at [Métodos em Pauta](http://metodosempauta.com), a [BITSS Catalyst](https://www.bitss.org/people/amanda-domingos/), and member of the [TIER Project hub](https://www.projecttier.org/person/amanda-domingos/) in Brazil.
 
 My research interests are public policy, distributive politics, and transparency in social sciences. My Ph.D. dissertation Project focus on analysing intergovernmental relations in Brazilian federalism and its effects on public policy provision at the local level. 
 
+Feel free to reach me out!
 
+Links
+=======
+  * [CV](files/cvfev21.pdf)
+  * [OSF](https://osf.io/pdx9m/)
+  * [Lattes](http://lattes.cnpq.br/5884024723748321)
 
