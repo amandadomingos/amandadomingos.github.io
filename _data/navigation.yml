@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Publications"
+ # - title: "Publications"
    # url: /publications/
 
-  - title: "Talks"
+  #- title: "Talks"
    # url: /talks/    
 
-  - title: "Teaching"
+  #- title: "Teaching"
    # url: /teaching/    
     
   #- title: "Portfolio"
@@ -16,7 +16,7 @@ main:
    # url: /year-archive/
     
   - title: "CV"
-   # url: /cv/
+    url: https://amandadomingos.github.io/cv/
     
   #- title: "Guide"
    # url: /markdown/
