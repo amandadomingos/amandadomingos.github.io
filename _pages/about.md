@@ -17,6 +17,5 @@ Feel free to reach me out!
 
 Links
 =======
-  * [CV](files/cvfev21.pdf)
-  * [OSF](https://osf.io/pdx9m/)
-  * [Lattes](http://lattes.cnpq.br/5884024723748321)
+    * [OSF](https://osf.io/pdx9m/)
+    * [Lattes](http://lattes.cnpq.br/5884024723748321) (in Portuguese)
