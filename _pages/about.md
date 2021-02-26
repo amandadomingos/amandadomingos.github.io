@@ -18,4 +18,4 @@ Feel free to reach me out!
 Links
 =======
     * [OSF](https://osf.io/pdx9m/)
-    * [Lattes](http://lattes.cnpq.br/5884024723748321) (in Portuguese)
+    * [Lattes](http://lattes.cnpq.br/5884024723748321)
