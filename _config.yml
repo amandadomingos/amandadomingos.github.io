@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amanda Domingos"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Amanda Domingos"
 description              : &description "PolSci PhD Student @ UFPE"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Amanda Domingos"
   avatar           : "bio-photo.JPG"
-  bio              : "PhD Student in Political Science"
+  bio              : "PhD Student @ UFPE"
   location         : "Olinda, Brazil"
   employer         :
   pubmed           : 
