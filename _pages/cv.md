@@ -15,16 +15,36 @@ Education
 * M.A. in Political Science, Federal University of Pernambuco, 2019
 * Ph.D in Political Science, Federal University of Pernambuco, 2023 (expected)
 
-Publications
-======
-  * A. Domingos, I. Rebouças. [Um mapa para transparência e replicabilidade: protocolo TIER](https://periodicos.ufpe.br/revistas/politicahoje/article/view/245776), 2020.
-  * M. Cunha, A. Domingos, V. Rocha, M. Torres. [How many could have been saved? Effects of social distancing on COVID-19](http://bibliotecadigital.fgv.br/ojs/index.php/rap/article/view/83026). Brazilian Journal of Public Administration, 2020.
-  * D. Figueiredo, R. Lins, A. Domingos, N. Janz, L. Silva. (Seven Reasons Why: A User’s Guide to Transparency and Reproducibility)[https://www.scielo.br/scielo.php?pid=S1981-38212019000200400&script=sci_abstract]. Brazilian Political Science Review, 2019.
-  * M. Batista, A. Domingos. [More Than Good Intentions: Quantitative and Qualitative Technics In The Impact Evaluation](https://www.scielo.br/scielo.php?pid=S0102-69092017000200511&script=sci_abstract&tlng=pt). Revista Brasileira de Ciências Sociais, 2017. (Portuguese).
-
 Work experience
 ======
 * Feb - Mar 2017: Research Assistant
   * Project: Accountability and Incumbent Performance in the Brazilian Northeast
   * Duties included: Background reports on  municipalities
   * Supervisor: Professor Taylor Boas (Boston University)
+
+Teaching experience
+======
+* Winter 2019: Teaching Assistant
+  * Course: Public Policy II (Graduate Level: B.A in Political Science)
+  * Supervision: Mariana Batista, Phd
+  * Federal University of Pernambuco
+
+* Summer 2017: Teaching Assistant
+  * Course: Public Policy I (Graduate Level: B.A in Political Science)
+  * Supervision: Mariana Batista, Phd
+  * Federal University of Pernambuco
+
+Grants
+======
+2019-2023. Facepe PhD Exclusive Dedication Scholarship
+2017-2019. CAPES Master Exclusive Dedication Scholarship 
+2015-2016. CNPq Scientific Initiation Scholarship
+2014-2015. CAPES Young Talents for Science Program Scholarship
+
+Aditional information
+======
+* Softwares:
+  * R, Stata, SPSS, Latex
+* Languages:
+  * Portuguese, Spanish and English
+
