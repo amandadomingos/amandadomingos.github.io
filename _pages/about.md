@@ -14,3 +14,8 @@ I am a PhD Student in Political Science at the [Federal University of Pernambuco
 My research interests are public policy, distributive politics, and transparency in social sciences. My PhD dissertation project focuses on analysing intergovernmental relations in Brazilian federalism and its effects on public policy provision at the local level. 
 
 Feel free to reach me out!
+
+Links
+====
+* [OSF](https://osf.io/pdx9m/)
+* [CV](files/cvfev21.pdf) and [Lattes (in Portuguese)](http://lattes.cnpq.br/5884024723748321)
