@@ -11,8 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-Publications
-======
    * M. Cunha, A. Domingos, V. Rocha, M. Torres. [How many could have been saved? Effects of social distancing on COVID-19](http://bibliotecadigital.fgv.br/ojs/index.php/rap/article/view/83026). Brazilian Journal of Public Administration, 2021.
   * A. Domingos, I. Batista. [Um mapa para transparência e replicabilidade: protocolo TIER](https://periodicos.ufpe.br/revistas/politicahoje/article/view/245776), 2020.
   * D. Figueiredo, R. Lins, A. Domingos, N. Janz, L. Silva. [Seven Reasons Why: A User’s Guide to Transparency and Reproducibility](https://www.scielo.br/scielo.php?pid=S1981-38212019000200400&script=sci_abstract). Brazilian Political Science Review, 2019.
