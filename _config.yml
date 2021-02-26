@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Amanda Domingos"
   avatar           : "bio-photo.JPG"
-  bio              : "PolSci PhD Student"
-  location         : "Olinda, Brazil"
+  bio              : "PhD Student in Political Science"
+  location         : "Federal University of Pernambuco (Recife, Brazil)"
   employer         :
   pubmed           : 
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.br/citations?user=jrHuCc8AAAAJ&hl=en"
   email            : "ardlima4@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-2900-5337"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
