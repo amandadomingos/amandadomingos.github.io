@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hiya! 
-I am a PhD Student in Political Science at the [Federal University of Pernambuco](https://www.ufpe.br/politica) (Recife, Brazil). Also, I am a director at [Métodos em Pauta](http://www.metodosempauta.com), a [BITSS Catalyst](https://www.bitss.org/), and a member of the [TIER Project] hub (https://www.projecttier.org/) in Brazil.
+I am a PhD Student in Political Science at the [Federal University of Pernambuco](https://www.ufpe.br/politica) (Recife, Brazil). Also, I am a director at [Métodos em Pauta](http://www.metodosempauta.com), a [BITSS Catalyst](https://www.bitss.org/), and a member of the [TIER Project](https://www.projecttier.org/) hub in Brazil.
 
 My research interests are public policy, distributive politics, and open & reproducible research in social sciences. My PhD dissertation project focuses on analysing intergovernmental relations in Brazilian federalism and its effects on public policy provision at the local level. 
 
