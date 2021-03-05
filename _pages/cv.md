@@ -11,16 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.A. in Political Science (minor in IR), Federal University of Pernambuco, 2016
-* M.A. in Political Science, Federal University of Pernambuco, 2019
 * Ph.D in Political Science, Federal University of Pernambuco, 2023 (expected)
+* M.A. in Political Science, Federal University of Pernambuco, 2019
+* B.A. in Political Science (minor in IR), Federal University of Pernambuco, 2016
+
 
 Work experience
 ======
 * Feb - Mar 2017: Research Assistant
-  * Project: Accountability and Incumbent Performance in the Brazilian Northeast
+  * Project: [Accountability and Incumbent Performance in the Brazilian Northeast](https://egap.org/project/accountability-and-incumbent-performance-in-the-brazilian-northeast/)
   * Duties included: Background reports on  municipalities
-  * Supervisor: Professor Taylor Boas (Boston University)
+  * Supervisor: Taylor Boas, PhD (Boston University)
 
 Teaching experience
 ======
