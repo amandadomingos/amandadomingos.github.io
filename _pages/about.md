@@ -12,7 +12,7 @@ Hiya, my name is Amanda Domingos, and I am a PhD Student in Political Science at
 
 My research interests are public policy, subnational and distributive politics, and open & reproducible research in social sciences. In my PhD dissertation project, I deal with intergovernmental relations and public policy in Brazilian federalism. More specifically, I focus on the subnational unevenness of policy provision.
 
-Please, feel free to reach me out! I really believe that science is a build-in community and that we should get to know one another and collaborate more. 
+Please, feel free to reach me out! I really believe that science is a built-in community and that we should get to know one another and collaborate more. 
 
 Links
 ====
