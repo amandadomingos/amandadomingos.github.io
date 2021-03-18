@@ -17,4 +17,4 @@ In 2019, we held our first event: a two-day meeting where we discussed topics fr
 Where to find us?
 ======
 You can keep up with our activities on our [site](http://www.metodosempauta.com/). Also, we tweet at @[metodosempauta](https://twitter.com/metodosempauta), and you can find some video content on our [YouTube Channel](https://www.youtube.com/metodosempauta). 
-Feel free to reach out! DMs and emails at metodosempauta[at]gmail[dot]com are welcomed. 
+Feel free to reach out! DMs and emails at <metodosempauta@gmail.com> are welcomed. 
