@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-======
 * Ph.D in Political Science, Federal University of Pernambuco, 2023 (expected)
 * M.A. in Political Science, Federal University of Pernambuco, 2019
 * B.A. in Political Science (minor in IR), Federal University of Pernambuco, 2016
