@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,27 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
 ======
 * Ph.D in Political Science, Federal University of Pernambuco, 2023 (expected)
 * M.A. in Political Science, Federal University of Pernambuco, 2019
 * B.A. in Political Science (minor in IR), Federal University of Pernambuco, 2016
 
-
-Work experience
-======
-* Feb - Mar 2017: Research Assistant
-  * Project: [Accountability and Incumbent Performance in the Brazilian Northeast](https://egap.org/project/accountability-and-incumbent-performance-in-the-brazilian-northeast/)
-  * Duties included: Background reports on  municipalities
-  * Supervisor: Taylor Boas, PhD (Boston University)
-
-Teaching experience
-======
-* Teaching Assistant
-  * Course: Public Policy II and Public Policy II(Graduate Level: B.A in Political Science)
-  * Supervision: Mariana Batista, Phd
-  * Winter 2019 and summer 2017
-  * Federal University of Pernambuco
 
 Grants
 ======
