@@ -19,4 +19,4 @@ Please, feel free to reach me out! I really believe that science is a built-in c
 Links
 ====
 * [OSF](https://osf.io/pdx9m/)
-* [CV](files/cvfev21.pdf) and [Lattes CV (in Portuguese)](http://lattes.cnpq.br/5884024723748321)
+* [CV](files/cv_mar22.pdf) and [Lattes CV (in Portuguese)](http://lattes.cnpq.br/5884024723748321)
