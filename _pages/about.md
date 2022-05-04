@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About"
+title: "Hello :)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Hello :)
 
 I am a PhD Student in Political Science at the [Federal University of Pernambuco](https://www.ufpe.br/politica) (Recife, Brasil), from where I also got an BA (2016) and MA (2019) in Political Science. My research interests are public policy, subnational and distributive politics, and open & reproducible research in social sciences. In my PhD dissertation project, I deal with the politics of public policy. More specifically, I focus on the role of budgetary amendments on the subnational unevenness of public policy provision in the Brazilian municipalities.
 
