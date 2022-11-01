@@ -24,4 +24,4 @@ Please, feel free to reach out! I really believe that science is a built-in comm
 Links
 ====
 * [OSF](https://osf.io/pdx9m/)
-* [CV](files/cv_mar22.pdf) and [Lattes CV (in Portuguese)](http://lattes.cnpq.br/5884024723748321)
+* [CV](files/cv_AmandaDomingos.pdf) and [Lattes CV (in Portuguese)](http://lattes.cnpq.br/5884024723748321)
