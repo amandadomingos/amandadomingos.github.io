@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-* Ph.D in Political Science, Federal University of Pernambuco, 2023 (expected)
-* M.A. in Political Science, Federal University of Pernambuco, 2019
+* Ph.D in Political Science, Federal University of Pernambuco, 2023
+* M.A. in Political Science (Democracy and Political Institutions), Federal University of Pernambuco, 2019
 * B.A. in Political Science (minor in IR), Federal University of Pernambuco, 2016
 
 
@@ -28,5 +28,5 @@ Aditional information
 * Softwares:
   * R, Stata, SPSS, Latex
 * Languages:
-  * Portuguese (native), Spanish (advanced) and English (advanced).
+  * Portuguese (native), Spanish (advanced), English (advanced), Galician (Beginner), and Italian (Reading knowledge).
 
