@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there :)"
+title: "Olá :) "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,17 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD in Political Science at the [Federal University of Pernambuco](https://www.ufpe.br/politica), from where I also got a BA (2016) and MA (2019) in Political Science. My research interests are public policy, subnational and distributive politics, and open & reproducible research in social sciences. In my PhD dissertation project, I dealt with the politics of public policy. More specifically, I focused on budgetary amendments' role in the subnational unevenness of public policy provision in Brazilian municipalities.
+I am a Postdoctoral Researcher in the Department of Central Methodology at the Europa-Universität Flensburg, Germany. I received a PhD in Political Science (Political Institutions) from the [Political Science department at the Universidade Federal de Pernambuco](https://www.ufpe.br/politica) (2023). During the Hillary and Trinity terms of 2022, I was a PhD visiting researcher at the [Latin American Centre](https://www.lac.ox.ac.uk/people/amanda-domingos) (University of Oxford). In 2023, I also worked as a Data analysis and community outreach consultant for the International Panel on the Information Environment ([IPIE](https://ipie.info/)).
 
-I co-found and direct [MeP](http://www.metodosempauta.com/) – Métodos em Pauta – an initiative that seeks to democratize the discussion of social research methods in the social and political science fields. In 2021 we received the honourable mention in the Scientific Dissemination award from the Brazilian National Association of Graduate Studies and Research in Social Sciences (ANPOCS).
+My research focuses on distributive politics and multilevel dynamics of public policy, and it seeks to improve our understanding of how and under which conditions distributive politics can generate positive collective effects. My thesis focused on how pork barrel politics spillover effects can improve healthcare indexes in neighbouring areas of the municipalities that received distributive resources. My primary region of interest is Latin America, with a focus on Brazilian municipalities. I am a [catalyst](https://www.bitss.org/people/amanda-domingos/) for the Berkley Initiative for Transparency in the Social Sciences (BITSS) and a [member](https://www.projecttier.org/person/amanda-domingos/) of the Teaching Integrity in Empirical Research (TIER) Network, where I help to educate and advocate for transparency tools and practices. 
 
-As part of the academic service, I am a [catalyst](https://www.bitss.org/people/amanda-domingos/) for the Berkeley Initiative for Transparency in the Social Sciences (BITSS), where I help to educate and advocate for transparency tools and practices. I am also a member of the Project TIER (Teaching Integrity in Empirical Research) [network and hub](https://www.projecttier.org/person/amanda-domingos/).
-
-In 2021, I received the *BITSS Catalyst Grant for Advancing Transparent, Reproducible, and Ethical Research* to conduct the [Brazilian Open Science Training](http://www.bitss.org/project-tag/catalyst-project/) for young researchers and graduate students, aiming to provide an overview of principles, tools, and practices for building more transparent social research in the long term.
-
-In 2022, I was a [Recognised Student](https://www.lac.ox.ac.uk/people/amanda-domingos) in the Latin American Centre (Oxford University) during the Hilary and Trinity terms under the supervision of Prof. Andreza de Souza Santos.
-
-Please, feel free to reach out! I really believe that science is a built-in community and that we should get to know one another and collaborate more.
+Before receiving my PhD, I earned a master's degree in political science (Democracy and Political Institutions) at the Universidade Federal de Pernambuco (Recife, Brazil) and also a bachelor's degree in political science with a minor in International Relations from the same university. 
 
 
 Links
