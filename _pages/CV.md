@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Political Science, Federal University of Pernambuco, 2023
-* Ph.D visitig researcher, University of Oxford, 2022
+* Ph.D visiting researcher, University of Oxford, 2022
 * M.A. in Political Science (Democracy and Political Institutions), Federal University of Pernambuco, 2019
 * B.A. in Political Science (minor in IR), Federal University of Pernambuco, 2016
 
