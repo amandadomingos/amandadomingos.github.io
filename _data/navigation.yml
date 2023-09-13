@@ -3,8 +3,11 @@ main:
   - title: "Curriculum Vitae"
     url: https://amandadomingos.github.io/CV/
  
-  - title: "Publications"
+  - title: "Research"
     url: https://amandadomingos.github.io/publications/
+
+  - title: "Contact"
+    url: https://amandadomingos.github.io/contact/
     
   - title: "Metodos em Pauta"
     url: https://amandadomingos.github.io/mep/
