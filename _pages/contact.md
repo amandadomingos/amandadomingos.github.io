@@ -16,7 +16,7 @@ author_profile: true
    
    24943 Flensburg
    
-   Riga 6 | Room  606
+   Riga 6 - Room  606
    
    Tel. +49 461 806 2974
 
