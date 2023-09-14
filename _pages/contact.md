@@ -12,7 +12,10 @@ author_profile: true
   * ardlima4@gmail.com
 
 #### Address:
-Auf dem Campus 1
-24943 Flensburg
-Riga 6 | Room  606
-Tel. +49 461 806 2974
+   Auf dem Campus 1
+   
+   24943 Flensburg
+   
+   Riga 6 | Room  606
+   
+   Tel. +49 461 806 2974
