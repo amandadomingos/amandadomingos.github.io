@@ -18,7 +18,7 @@ Education
 
 Working experience
 ======
-* 2023 - ongoing. Postdoctoral Resrarcher, Europa-Universität Flensburg (Germany)
+* 2023 - ongoing. Postdoctoral Researcher, Europa-Universität Flensburg (Germany)
 * 2023 - 2023. Data and community outreach consultant, International Panel on the Information Environment (UK)
 * 2021 - 2021. Lecture, Legislative School of Pernambuco (Brazil)
 * 2019 - 2019. Teaching Assistant, Universidade Federal de Pernambuco (Brazil)
