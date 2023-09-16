@@ -13,7 +13,7 @@ author_profile: true
  * Beyond borders: how spatiall spillover effects shape the role of pork barrel politics on subnational public policy provision? (Under review)
 
 ### Public Policy
- * [How many could have been saved? Effects of social distancing on COVID-19](http://bibliotecadigital.fgv.br/ojs/index.php/rap/article/view/83026). Brazilian Journal of Public Administration, 2021. With Matheus Cunha, Virginia Rocha and Marcus Torres, in English.[Replication materials](https://osf.io/qndjh/).
+ * [How many could have been saved? Effects of social distancing on COVID-19](http://bibliotecadigital.fgv.br/ojs/index.php/rap/article/view/83026). Brazilian Journal of Public Administration, 2021. With Matheus Cunha, Virginia Rocha and Marcus Torres, in English. [Replication materials](https://osf.io/qndjh/).
  * [Public policies: classic models and 40 years of production in Brazil](http://anpocs.com/images/BIB/n94/Bib94_Mariana.pdf). Revista Brasileira de Informação Bibliográfica em Ciências Sociais, 2017. With Mariana Batista, in Portuguese.
  * [Public policies: classic models and 40 years of production in Brazil](http://anpocs.com/images/BIB/n94/Bib94_Mariana.pdf). Revista Brasileira de Informação Bibliográfica em Ciências Sociais, 2021. With Mariana Batista and Bhreno Vieira, in Portuguese.
  
