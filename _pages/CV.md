@@ -22,12 +22,13 @@ Working experience
 * 2023 - 2023. Data and community outreach consultant, International Panel on the Information Environment (UK)
 * 2021 - 2021. Lecture, Legislative School of Pernambuco (Brazil)
 * 2019 - 2019. Teaching Assistant, Universidade Federal de Pernambuco (Brazil)
-* 2017 - 2017. Research Assistant, Egap/METAKETA Project (Brazil)
+* 2017 - 2017. Research Assistant, Egap/METAKETA Project (USA/Brazil)
 * 2014 2016. Student Assistant, Universidade Federal de Pernambuco (Brazil) 
 
-Competitive grants and scholarships
+Competitive grants, scholarships and prizes
 ======
   * 2022 - 2022. Catalyst Grant for Advancing Transparent Reproducible, and Ethical Research (CEGA/BITSS).
+  * 2021- 2021. Honourable mention in the ANPOCS scientific dissemination award (2021)
   * 2022 - 2022. CAPES PhD visiting scholarship (Doutorado Sanduíche in Latin American Centre/Oxford).
   * 2019-2023. Facepe PhD Exclusive Dedication Scholarship.
   * 2017-2019. CAPES Master Exclusive Dedication Scholarship.
