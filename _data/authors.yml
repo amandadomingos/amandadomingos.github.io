@@ -5,7 +5,7 @@ Name Name:
   uri         : "http://amandadomingos.github.io"
   email       : "ardlima4@gmail.com"
   bio         : "Postdoctoral@ZML/EUF"
-  avatar      : "bio.jpg"
+  avatar      : "bio-photo.jpg"
   twitter     : "adadomingos"
   google_plus : "Name"
 
@@ -13,6 +13,6 @@ Name2 Name2:
   name        : "Name2 Name2"
   email       : "name2@name2.com"
   bio         : "I ordered what?"
-  avatar      : "bio.jpg"
+  avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
