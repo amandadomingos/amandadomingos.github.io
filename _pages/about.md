@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Olá :) "
+title: "Olá, tudo bem? :) "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
