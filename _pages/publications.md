@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ### Distributive politics
- * Mapping the bacon: on the spatial allocation of pork barrel politics in Brazilian municipalities.  Forthcoming. Book chapter. 
+ * "Mapping the bacon: on the spatial allocation of pork barrel politics in Brazilian municipalities" in *Instituições, Políticas e Governo*, orgs.: Mariana Batista,Bhreno Vieira and Pedro Nascimento. Forthcoming, 2024.
  * Beyond borders: how spatial spillover effects shape the role of pork barrel politics on subnational public policy provision? (Working paper)
  * On the particularistic behaviour of Brazilian legislators in the production of Bills. (Under review).
 
@@ -20,7 +20,7 @@ author_profile: true
 ### Transparency and Reproducibility
   * [A roadmap for transparency and reproducibility: the TIER Protocol](https://periodicos.ufpe.br/revistas/politicahoje/article/view/245776), Revista Política Hoje, 2020. With Ian Rebouças Batista, in English and Portuguese.
   * D. Figueiredo, R. Lins, A. Domingos, N. Janz, L. Silva. [Seven Reasons Why: A User’s Guide to Transparency and Reproducibility](https://www.scielo.br/scielo.php?pid=S1981-38212019000200400&script=sci_abstract). Brazilian Political Science Review, 2019. With Dalson Figueiredo, Rodrigo Lins, Nicole Janz and Lucas Silva, in English.
-  * The yellow brick road? Why and how to produce qualitative research more transparent. With Virginia Rocha and Palloma Marciano. Forthcoming, in Portuguese. (2024).
+  * The yellow brick road? Why and how to produce qualitative research more transparently. With Virginia Rocha and Palloma Marciano. Forthcoming, in Portuguese. (2024).
 
 
 #### You can access a further list of my publications on my [Google Schoolar](https://scholar.google.be/citations?user=jrHuCc8AAAAJ&hl=pt-BR&oi=ao) page
