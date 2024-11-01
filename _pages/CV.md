@@ -18,12 +18,16 @@ Education
 
 Working experience
 ======
-* 2023 - ongoing. Postdoctoral Researcher, Europa-Universität Flensburg (Germany)
+* 2024 - ongoing. Postdoctoral Research and Policy Associate, University of Oxford (United Kingdom)
+* 2023 - 2024. Postdoctoral Researcher, Europa-Universität Flensburg (Germany)
 * 2023 - 2023. Data and community outreach consultant, International Panel on the Information Environment (UK)
 * 2021 - 2021. Lecture, Legislative School of Pernambuco (Brazil)
+
+Teaching experience
+======
 * 2019 - 2019. Teaching Assistant, Universidade Federal de Pernambuco (Brazil)
 * 2017 - 2017. Research Assistant, Egap/METAKETA Project (USA/Brazil)
-* 2014 2016. Student Assistant, Universidade Federal de Pernambuco (Brazil) 
+* 2014 - 2016. Student Assistant, Universidade Federal de Pernambuco (Brazil) 
 
 Competitive grants, scholarships and prizes
 ======
