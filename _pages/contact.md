@@ -8,17 +8,13 @@ author_profile: true
 {% include base_path %}
 
 ## Email:
-  * amanda.domingos@uni-flensburg.de
+  * amanda.domingosdelima@bsg.ox.ac.uk
   * ardlima4@gmail.com
 
 ## Address:
-   Auf dem Campus 1
-   
-   24943 Flensburg
-   
-   Riga 6 - Room  606
-   
-   Tel. +49 461 806 2974
+Blavatnik School of Government
+120 Walton St
+Oxford OX2 6GG
 
 ## You can also find me:
 
