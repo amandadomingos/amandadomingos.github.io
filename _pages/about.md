@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research and Policy Associate for the Lemann Foundation Programme at the Blavatnik School of Government. I hold a Ph.D. in Political Science from the Federal University of Pernambuco (Recife, Brazil).
+I am a [Postdoctoral Research and Policy Associate](https://www.bsg.ox.ac.uk/people/amanda-domingos) for the Lemann Foundation Programme at the Blavatnik School of Government, University of Oxford. I hold a Ph.D. in Political Science from the Federal University of Pernambuco (Recife, Brazil).
 
 My research focuses on the intersection of public policy, subnational and multilevel dynamics, and legislative studies, aiming to deepen our understanding of the conditions under which politics can drive collective outcomes in policy. In my PhD thesis, I analysed how the distributive politics' spillover effects can improve healthcare indexes in neighbouring areas of the municipalities that received distributive resources. Latin America is my primary region of interest, with a particular focus on Brazilian municipalities. 
 
