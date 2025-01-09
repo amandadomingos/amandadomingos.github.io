@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Amanda Domingos"
 title_separator          : "-"
 name                     : &name "Amanda Domingos"
-description              : &description "Postdoctoral Researcher @ ZML/EUF"
+description              : &description "Postdoctoral Researcher @ BSG/Oxford"
 url                      : https://amandadomingos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amandadomingos/amandadomingos.github.io"
@@ -84,7 +84,7 @@ author:
   avatar           : "bio-photo.JPG.JPG"
   bio              : "Postdoctoral Researcher @ BSG/Oxford"
   location         : "Oxford, UK"
-  employer         :
+  employer         : "https://www.bsg.ox.ac.uk/people/amanda-domingos"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.br/citations?user=jrHuCc8AAAAJ&hl=en"
   email            : "ardlima4@gmail.com"
