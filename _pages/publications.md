@@ -25,5 +25,13 @@ author_profile: true
   * D. Figueiredo, R. Lins, A. Domingos, N. Janz, L. Silva. [Seven Reasons Why: A User’s Guide to Transparency and Reproducibility](https://www.scielo.br/scielo.php?pid=S1981-38212019000200400&script=sci_abstract). Brazilian Political Science Review, 2019. With Dalson Figueiredo, Rodrigo Lins, Nicole Janz and Lucas Silva, in English.
   * The yellow brick road? Why and how to produce qualitative research more transparently. With Virginia Rocha and Palloma Marciano. Forthcoming, in Portuguese. (2024).
 
+### PhD Thesis
+* Domingos, A. [Beyond borders: How spatial spillover effects shape the role of pork barrel politics on subnational public policy provision](https://bdtd.ibict.br/vufind/Record/UFPE_2bfcda732dd5c6ab9a9b6c7d4d004212). PhD dissertation, Federal University of Pernambuco, Recife, Brazil. May 10t, 2023.
+
+### Blog posts
+* [Let them eat bacon? Exploring the subnational positive effects of pork barrel politics in the Brazilian context](https://www.eurac.edu/en/blogs/eureka/let-them-eat-bacon-exploring-the-subnational-positive-effects-of-pork-barrel-poli). EUREKA Blog, Eurac Research, 23 April 2024.
+  
+* Domingos, A. & Lins, R. [Métodos em Pauta: an initiative bringing transparency to Brazilian political science](https://www.bitss.org/metodos-em-pauta-an-initiative-bringing-transparency-to-brazilian-political-science/). Berkeley Initiative for Transparency in the Social Sciences (BITSS) Blog
+
 
 #### You can access a further list of my publications on my [Google Schoolar](https://scholar.google.be/citations?user=jrHuCc8AAAAJ&hl=pt-BR&oi=ao) page
